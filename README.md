@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Andrei Putiev
 =====================================================================================================================================
 
-Software Engineering student at 42 Wolfsburg with automotie engineering expierence
+Software Engineering student at 42 Wolfsburg 	<a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a> with automotie engineering expierence
 --------------------------------------------
 
 *   🌍  I'm based in Wolfsburg, Germany
@@ -31,6 +31,8 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" /></a>
 </div>
 
 ### Socials
