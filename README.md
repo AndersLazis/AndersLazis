@@ -20,6 +20,9 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 - :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aputiev@student.42wolfsburg.de)
 
 ---
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### 💻 Skills
 
