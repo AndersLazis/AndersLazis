@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Andrei Putiev
 =====================================================================================================================================
 
-Software Engineering student at 42 Wolfsburg 	<a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a> with automotie engineering expierence
---------------------------------------------
+Software Engineering student at 42 Wolfsburg with automotie engineering expierence
+<p align="left"> <a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a> 
+<p align="left">--------------------------------------------
 
 *   🌍  I'm based in Wolfsburg, Germany
 
-### :man_technologist: about me:
+### :man_technologist: About me:
 
 I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey to it began with School #42Wolfsburg, where I am about to complete an Cores Study course. At the moment, I'm looking for my first internship.
 
@@ -37,6 +38,7 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/andersmunich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anderscarnegie/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/anderscarnegie/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.facebook.com/andersmunich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a></p>
 
 ---
