@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 Software Engineering student at 42 Wolfsburg with automotie engineering expierence
-<p align="left"> <a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a> 
+<p align="left"> <a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="assets/42.png"/></a> 
 <p align="left">--------------------------------------------
 
 *   🌍  I'm based in Wolfsburg, Germany
