@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Andrei Putiev
 =====================================================================================================================================
 
-Software Engineering student at 42 Wolfsburg with automotie engineering expierence
+Software Engineering student at 42 Wolfsburg with automotive engineering expierence
 <p align="left"> <a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="assets/42.png"/></a> 
 <p align="left">--------------------------------------------
 
