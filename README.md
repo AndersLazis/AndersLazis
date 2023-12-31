@@ -1,15 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Andrei Putiev
-=====================================================================================================================================
-
-Software Engineering student at 42 Wolfsburg with automotive engineering expierence
-<p align="left"> <a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="assets/42.png"/></a> 
-<p align="left">--------------------------------------------
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Andrei Putiev Software Engineering student at 42 Wolfsburg with automotive engineering expierence
+<div align="left"> <a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="assets/42.png"/></a> 
+</p>
 
 *   🌍  I'm based in Wolfsburg, Germany
 
 ### :man_technologist: About me:
 
-I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey to it began with School #42Wolfsburg, where I am about to complete an Cores Study course. At the moment, I'm looking for my first internship.
+I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey to it began with School #42Wolfsburg, where I am about to complete an Cores Study course. At the moment, I'm looking for my first internship and first job.
 
 - :telescope: Completed C courses on the Stepik platform.
 
@@ -17,10 +14,10 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: I am student in the 42 Wolfsburg.
 
-- :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aputiev@student.42wolfsburg.de)
+- :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:putiev@gmail.com)
 
 ---
-<p align="center">
+<div align="left">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
@@ -28,29 +25,60 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,github,git,visualstudio)](https://skillicons.dev)
 
-<br>
+- :desktop_computer:  Languages - C | C++ | Bash 
 
-> :desktop_computer:  Languages - C | C++ | Bash 
+- :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
 
-> :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
+- :atom:  IDEs - Visual Studio | Visual Studio Code | Vim
 
-> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
-
-<br>
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" /></a>
-</div>
 
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/anderscarnegie/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.facebook.com/andersmunich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a></p>
 
-### 42 School Projects
 ---
+### 42 School Projects
+<div align="center">
+
+<a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/mcombeau/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/mcombeau/Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
+<a href="https://github.com/mcombeau/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
+<a href="https://github.com/mcombeau/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/AndersLazis/Minishell">![42 Badge](https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/minishelle.png)</a>
+<a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
+<a href="https://github.com/mcombeau/Cpp_Modules">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
+<a href="https://github.com/mcombeau/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
+<a href="https://github.com/mcombeau/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
+<a href="https://github.com/mcombeau/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
+<a href="#">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png)</a>
+
+<!-- 
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
+
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
+-->
+</div>
+
+&#9656; [More information about these 42 school projects](https://github.com/mcombeau/42_cursus_projects)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcombeau&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![mcombeau's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcombeau&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
