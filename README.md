@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### :man_technologist: About me:
 
-I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey to it began with School #42Wolfsburg, where I am about to complete an Cores Study course. At the moment, I'm looking for my first internship and first job. 
+I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey to it began with School #42Wolfsburg, where I am about to complete an Core Study course. At the moment, I'm looking for my first internship and first job. 
 
 
 - :telescope: Completed C courses on the Stepik platform.
