@@ -15,7 +15,7 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: I am student in the 42 Wolfsburg.
 
-- :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:putiev@gmail.com)
+- :mailbox: How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:putiev@gmail.com) putiev@gmail.com
 
 ---
 <div align="left">
