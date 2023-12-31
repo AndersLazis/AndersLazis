@@ -44,20 +44,11 @@ Not all projects are presented here, but the most interesting and complex ones.
 <div align="center">
 
 <a href="https://github.com/AndersLazis/Minishell">![42 Badge](https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/minishelle.png)</a>
+<a href="https://github.com/AndersLazis/Cub3D">![42 Badge](https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/cub3dm.png)</a>
 
 
-<!-- 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
--->
+
 </div>
 
 ---
