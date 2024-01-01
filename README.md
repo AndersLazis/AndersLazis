@@ -24,7 +24,7 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ###  🧑‍💻 Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,github,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,github,git,visualstudio,arduino)](https://skillicons.dev)
 
 - :desktop_computer:  Languages - C | C++ | Bash 
 
