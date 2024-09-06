@@ -52,6 +52,7 @@ Not all projects are presented here, but the most interesting and complex ones.
 <a href="https://github.com/AndersLazis/CPP_Modules_00-04">![42 Badge](https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/cppm.png)</a>
 <a href="https://github.com/AndersLazis/CPP_Modules_05-09">![42 Badge](https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/cppm.png)</a>
 <a href="https://github.com/AndersLazis/Inception">![42 Badge](https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/inceptione.png)</a>
+<a href="https://github.com/AndersLazis/WebServer">![42 Badge](https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/webserve.png)</a>
 <a href="https://github.com/AndersLazis/Transcendence">![42 Badge](https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/ft_transcendencem.png)</a>
 
 
