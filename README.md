@@ -26,11 +26,11 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,ts,django,angular,html,mysql,postgres,nginx,postman,bash,idea,vscode,docker,wordpress,ubuntu,stackoverflow,github,git,arduino,vim)](https://skillicons.dev)
 
-- :desktop_computer:  Languages - C | C++ | Bash 
+- :desktop_computer:  Languages - Java | C | C++ | Bash 
 
 - :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
 
-- :atom:  IDEs - Visual Studio | Visual Studio Code | Vim
+- :atom:  IDEs - IntelliJ IDEa | Visual Studio | Visual Studio Code | Vim
 
 
 ### Socials
