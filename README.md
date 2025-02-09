@@ -59,6 +59,13 @@ Not all projects are presented here, but the most interesting and complex ones.
 </div>
 
 ---
+### GitHub Stats
 
+
+![AndersLazis's Stats](https://github-readme-stats.vercel.app/api?username=AndersLazis&theme=vue&show_icons=true&hide_border=false&count_private=true)
+
+![AndersLazis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndersLazis&theme=vue&hide_border=false)
+
+![AndersLazis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersLazis&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 
